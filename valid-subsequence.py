@@ -24,3 +24,5 @@ for num, test in enumerate(tests):
     res = valid_subsequence(array, sequence)
     status = "SUCCESS" if res == expected else "FAILED"
     print(f"{num}) {array}, {sequence} -> {expected}, GOT: {res} ({status})")
+
+# Optimal time: O(n); Optimal Space: O(1)

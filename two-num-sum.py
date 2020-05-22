@@ -7,7 +7,7 @@ def find_additives(array, target_sum):
     return []
 
 
-# Best time: O(n); Space: O(n)
+# Best time: O(n); Space: O(n) - check!
 
 # Write a fun8ction that takes in a non-empty array of distinct integers and an
 # integer representing a target sum. If any two numbers in the input array sum
